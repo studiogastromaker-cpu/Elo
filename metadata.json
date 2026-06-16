@@ -1,0 +1,8 @@
+{
+  "name": "Elo - Seu Assistente de Bem-Estar",
+  "description": "Um refúgio digital projetado para oferecer apoio emocional, exercícios de respiração e um espaço seguro para reflexão e desabafo.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
